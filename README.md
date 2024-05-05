@@ -16,7 +16,7 @@ mos keladigan foydalanuvchi interfeyslarini yaratish uchun mos ravishda qo'shila
 Keling, Tailwind CSS standart to'xtash nuqtalari ro'yxatini ko'rib chiqaylik; bu yerda tushunishingiz mumkin
 to'xtash nuqtalari, ular ishlashi mumkin bo'lgan ekranning maksimal kengligi va CSS
 ushbu to'xtash nuqtasining media so'rovi:
-| tailwind-css| 0 | 0.5 |
+| tailwind-css| width | css|
 | -------- | -------- | -------- |
 | sm |640px |'@media (min-width: 640px) {// CSS Rules} | 
 | md |768px | @media (min-width: 768px) {// CSS Rules}| 
@@ -47,3 +47,21 @@ Rang uchun ixtiyoriy qiymatlarni o'tkazish rangning **hex** kodini o'tkazish kab
 rang qiymati uchun.
 ### Misol: text-[#44DD22] yoki text-[#fff] va hk ..
 ## Text decoration
+***underline:*** 
+![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/880506fc-cf00-4f73-b5ab-e908ef6ef949)
+
+***overline:*** 
+![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/72643c99-0c2d-4664-a5d2-ea791874a7c1)
+
+***line-through:***
+![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/22476fec-1fd2-46a4-9fd1-6417cd62dd93)
+
+***no-underline:*** 
+![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/76b0645f-9e91-4c17-8064-e089043946ed)
+
+### Text decoration color
+__decoration-[#55CC66]__
+<p class="underline decoration-blue-500>hello word</p>
+<p class=" underline decoration-[#225658]>hello word</p>
+<a class="underline decoration-sky-500/30">my color </a>
+<a class="underline decoration-indigo-500">my color </a>
