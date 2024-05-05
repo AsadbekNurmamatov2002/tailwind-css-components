@@ -61,7 +61,7 @@ rang qiymati uchun.
 
 ### Text decoration color
 __decoration-[#55CC66]__
-<p class="underline decoration-blue-500>hello word</p>
-<p class=" underline decoration-[#225658]>hello word</p>
-<a class="underline decoration-sky-500/30">my color </a>
-<a class="underline decoration-indigo-500">my color </a>
+*<p class="underline decoration-blue-500>hello word</p>*
+*<p class=" underline decoration-[#225658]>hello word</p>*
+*<a class="underline decoration-sky-500/30">my color </a>*
+*<a class="underline decoration-indigo-500">my color </a>*
