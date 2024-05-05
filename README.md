@@ -2,7 +2,7 @@
 
 | tailwind-css| 0 | 0.5 | 1 | 2 | 3 | 4 |5 |
 | -------- | ---- |---- | ---- |---- |---- |---- |---- |
-|/css| 0px |  2px | 4px | 8px | 12px | 16px | 20px | 
+|\\css| 0px |  2px | 4px | 8px | 12px | 16px | 20px | 
 
 ## Responsive design
 Rivojlanayotgan CSS ramkasi bo'lgan Tailwind CSS yanada silliq yo'lni ta'minlaydi
