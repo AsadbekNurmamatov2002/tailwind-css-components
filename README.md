@@ -47,16 +47,15 @@ Rang uchun ixtiyoriy qiymatlarni o'tkazish rangning **hex** kodini o'tkazish kab
 rang qiymati uchun.
 ### Misol: text-[#44DD22] yoki text-[#fff] va hk ..
 ## Text decoration
-***underline:*** 
+
 ![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/880506fc-cf00-4f73-b5ab-e908ef6ef949)
 
-***overline:*** 
+
 ![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/72643c99-0c2d-4664-a5d2-ea791874a7c1)
 
-***line-through:***
+
 ![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/22476fec-1fd2-46a4-9fd1-6417cd62dd93)
 
-***no-underline:*** 
 ![image](https://github.com/AsadbekNurmamatov2002/tailwind-css-components/assets/144318530/76b0645f-9e91-4c17-8064-e089043946ed)
 
 ### Text decoration color
