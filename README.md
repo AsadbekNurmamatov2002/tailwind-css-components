@@ -16,9 +16,9 @@ to'xtash nuqtalari, ular ishlashi mumkin bo'lgan ekranning maksimal kengligi va 
 ushbu to'xtash nuqtasining media so'rovi:
 | tailwind-css| 0 | 0.5 |
 | -------- | -------- | -------- |
-| sm |640px |@media (min-width: 640px) {
+| sm |640px |'@media (min-width: 640px) {
 // CSS Rules
-} | 
+}' | 
 | md |768px | @media (min-width: 768px) {
 // CSS Rules
 }| 
